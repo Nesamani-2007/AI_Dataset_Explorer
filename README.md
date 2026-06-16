@@ -4,9 +4,6 @@
 
 An interactive, modular **Automated Exploratory Data Analysis (EDA)** and Data Visualization web application built using Python and Streamlit. This application acts as a "Mini Data Scientist," helping users upload any CSV dataset, instantly analyze its properties, discover outliers, visualize distributions, and generate high-level data insights.
 
-## 🚀 Live Demo
-🔗 **[Paste your live Streamlit App URL here]**
-
 ---
 
 ## ✨ Features
