@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
 
-from utils.data_loader import DataLoader
-from utils.eda import EDA
-from utils.visualizer import Visualizer
-from utils.ai_insights import AIInsights
+from data_loader import DataLoader
+from eda import EDA
+from visualizer import Visualizer
+from ai_insights import AIInsights
 
 st.set_page_config(
     page_title="AI Dataset Explorer",
